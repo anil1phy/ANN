@@ -1,0 +1,1 @@
+ In this work, we download the fashion objects data sets from Keras. We create 5 different machine learning models that are able to recognize and determine the catagory of the fashion object from its image by using the concepts of machine learning. Then we evaluate the accuracy of models. In the process we understand the basic concepts of machine learning neural networks
